@@ -1,4 +1,4 @@
-package br.com.bruno.gerencia.lojista.Gerencia.Lojista;
+package br.com.bruno.gerencia.lojista;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
